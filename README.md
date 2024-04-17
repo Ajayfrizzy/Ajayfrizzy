@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Oluwaseun Ajao<br>I'm currently learning Frontend.<br>Looking forward to meeting people to collaborate with.
+I'm Oluwaseun Ajao<br>I'm a Frontend developer.<br>Looking forward to meeting people to collaborate with.
 
 
 ## 🌐 Socials:
